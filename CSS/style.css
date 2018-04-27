@@ -40,6 +40,10 @@ body {
 	text-align: center;
 	border: 1px solid black;
 }
+.MAKEUPs{
+	text-align: center;
+	border: 1px solid black;
+}
 .imgs{
 	width: 20%;
 	display: inline-block;
@@ -54,7 +58,11 @@ body {
 	display: inline-block;
 	vertical-align: top;
 }
-
+.product {
+	width: 80%;
+	display: inline-block;
+	vertical-align: top;
+}
 .footer{
 	background-color:  skyblue;
 }
